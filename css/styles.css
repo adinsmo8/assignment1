@@ -1,12 +1,26 @@
 html {
-    color: fuchsia
+    color: fuchsia;
 }
+
+/*
+body {
+    color: blue;
+    background-color: coral;
+}
+*/
 
 h1 {
     color: green;
+    background-color: beige;
+    font-family: 'arial';
 }
 
 p {
-    color: coral
+    color: coral;
+/*    background-color: paleturquoise;*/
 }
 
+
+a {
+    color: red;
+}

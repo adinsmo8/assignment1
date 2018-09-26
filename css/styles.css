@@ -19,7 +19,7 @@ h1 {
 .cis-260 {
 /*    color: chartreuse;*/
 /*    background-color: cadetblue;*/
-    font-family: sans-serif
+    font-family: cursive
 }
 
 .test {
@@ -34,10 +34,22 @@ h1 {
 
 p {
     color: #ff0000;
-    font-size: 20pt;
+    font-size: 22pt;
 /*    background-color: paleturquoise;*/
 }
 
+
+#special-paragraph {
+    color: #0000ff; 
+}
+
+#special-paragraph-2 {
+    font-family: 'times'
+}
+
+body  p a {
+    font-family: cursive
+}
 
 a {
     color: red;
